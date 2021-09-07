@@ -8,9 +8,8 @@
 body
 {
    background-image:url(backg.jpg);
-    background-repeat:no-repeat;
-    background-position:centre;
     background-size:cover;
+    background-position:Center;
   
 }
 
